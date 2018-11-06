@@ -5,10 +5,10 @@ from . import __version__ as app_version
 app_name = "bmspro"
 app_title = "Bmspro"
 app_publisher = "BMS Co."
-app_description = "ERP cutomized to feet your needs"
+app_description = "Custom ERPNext for french speaking African countries"
 app_icon = "octicon octicon-file-directory"
-app_color = "green"
-app_email = "ppkabore@gmail.com"
+app_color = "grey"
+app_email = "info@bmsco.com"
 app_license = "MIT"
 
 # Includes in <head>

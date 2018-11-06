@@ -1,6 +1,6 @@
 ## Bmspro
 
-ERP cutomized to feet your needs
+Custom ERPNext for french speaking African countries
 
 #### License
 

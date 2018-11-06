@@ -15,9 +15,9 @@ with open('bmspro/__init__.py', 'rb') as f:
 setup(
 	name='bmspro',
 	version=version,
-	description='ERP cutomized to feet your needs',
+	description='Custom ERPNext for french speaking African countries',
 	author='BMS Co.',
-	author_email='ppkabore@gmail.com',
+	author_email='info@bmsco.com',
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
